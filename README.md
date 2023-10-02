@@ -10,7 +10,7 @@ inside the project directory to run on localhost
 
 Install [Node.js](https://nodejs.org/en)
 
-This project is configiured with parcel, run
+This project is configured with parcel, run
 ### npm install parcel
 
 
